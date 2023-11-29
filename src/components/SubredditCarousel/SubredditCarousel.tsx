@@ -3,7 +3,7 @@ import "./SubredditCarousel.scss";
 import ichIel from "../../img/subreddit-ich_iel.png";
 import dankMemes from "../../img/subreddit-dankmemes.png";
 import gymMemes from "../../img/subreddit-gymmemes.png";
-import OkBrudiMongo from "../../img/subreddit-kreiswichs1.png";
+import OkBrudiMongo from "../../img/subreddit-okbrudimongo.png";
 import memes from "../../img/subreddit-memes.png";
 import wasLetztePreis from "../../img/subreddit-wasletztepreis.png";
 
