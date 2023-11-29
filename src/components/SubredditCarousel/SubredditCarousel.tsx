@@ -3,7 +3,7 @@ import "./SubredditCarousel.scss";
 import ichIel from "../../img/subreddit-ich_iel.png";
 import dankMemes from "../../img/subreddit-dankmemes.png";
 import gymMemes from "../../img/subreddit-gymmemes.png";
-import kreisWichs1 from "../../img/subreddit-kreiswichs1.png";
+import OkBrudiMongo from "../../img/subreddit-kreiswichs1.png";
 import memes from "../../img/subreddit-memes.png";
 import wasLetztePreis from "../../img/subreddit-wasletztepreis.png";
 
@@ -58,12 +58,12 @@ export default function SubredditCarousel(props: any) {
         </div>
         <div className="subreddit-icon">
           <img
-            src={kreisWichs1}
+            src={OkBrudiMongo}
             alt="Subreddit"
             width={48}
             height={48}
             onClick={(e) => props.changeSubreddit(e)}
-            data-subreddit="kreiswichs"
+            data-subreddit="okbrudimongo"
           />
         </div>
         <div className="subreddit-icon">
